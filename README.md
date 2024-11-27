@@ -11,6 +11,7 @@ This repository contains implementations of Logistic Regression, Softmax Regress
 4. [Implementation Details](#implementation-details)
 5. [Files and Directory Structure](#files-and-directory-structure)
 6. [Results](#results)
+7. [Plots](#plots)
 
 ---
 
@@ -144,12 +145,12 @@ git clone https://github.com/chinmayjainnnn/Contrastive-representation-learning
 
 ---
 
-## **Additional Notes**
-- **Learning Rate Decay**:
-  - Learning rate is decayed by 0.2 every 100 iterations.
-- **Regularization**:
-  - L2 regularization with a lambda value of 0.1.
-- **Gradient Clipping**:
-  - Threshold set at 4.0 to prevent exploding gradients.
+
+## **Plots**
+
+
+
+### **t-SNE After Training**
+![t-SNE After Training](plots/tsne.png)
 
 ---
