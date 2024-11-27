@@ -151,6 +151,6 @@ git clone https://github.com/chinmayjainnnn/Contrastive-representation-learning
 
 
 ### **t-SNE After Training**
-![t-SNE After Training](plots/tsne.png)
+![t-SNE After Training](images/tsne.png)
 
 ---
