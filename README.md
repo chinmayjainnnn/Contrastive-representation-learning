@@ -1,4 +1,4 @@
-# **Contrastive Learning and Logistic Regression Implementation**
+# **Contrastive Representation Learning and For image classification**
 
 This repository contains implementations of Logistic Regression, Softmax Regression, and Contrastive Representation Learning using Python and PyTorch. The project focuses on feature extraction, classification, and embedding generation using supervised and contrastive learning techniques. 
 
